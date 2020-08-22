@@ -42,7 +42,7 @@ class HelloWorld {
   }
 
   public static void hifromryan() {
-    System.out.println("\n---------------------------------------\Ryan was Here\n---------------------------------------\n");
+    System.out.println("\n---------------------------------------\nRyan was Here\n---------------------------------------\n");
   }
 
   public static void hifromsanjita() {
