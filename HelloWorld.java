@@ -37,6 +37,7 @@ class HelloWorld {
   }
 
   public static void hifrompavan() {
+    System.out.println("Pavan was here!");
   }
 
   public static void hifromryan() {
