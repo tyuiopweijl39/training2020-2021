@@ -12,7 +12,6 @@ class HelloWorld {
     hifromryan();
     hifromsanjita();
     hifromzoaib();
-
   }
 
   public static void hiFromCoach() {
