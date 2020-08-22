@@ -48,5 +48,6 @@ class HelloWorld {
   }
 
   public static void hifromzoaib() {
+    system.out.println("why hello there!")
   }
 }
