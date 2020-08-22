@@ -31,7 +31,7 @@ class HelloWorld {
   }
 
   public static void hifrominiya() {
-    System.out.println("Wassup/nGuys!")
+    System.out.println("Wassup/nGuys!");
   }
 
   public static void hifromjonathan() {
